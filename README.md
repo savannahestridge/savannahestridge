@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Savannah Estridge
 
-I am a datascientist who uses data for public good. Driven by a passionate commitment to human rights advocacy, I have cultivated substantial expertise in applying data science methodologies specifically within the realm of criminal justice and immigration reform. 
+I am a data scientist who uses data for public good. Driven by a passionate commitment to human rights advocacy, I have cultivated substantial expertise in applying data science methodologies specifically within the realm of criminal justice and immigration reform research. 
 
-### Skills
-- Quantitative research  
+### Skills 
 - R programming  
 - Python programming  
 - SQL and database management  
